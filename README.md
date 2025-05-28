@@ -1,4 +1,4 @@
-Bank Management System
+<h1>Bank Management System</h1>
 
 This is a simple console-based Bank Management System written in Java. It allows users to log in using a default password, manage personal bank account details, and perform core banking operations such as:
 
